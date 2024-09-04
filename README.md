@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a 22 year old developer based in Switzerland and currently studying in cyber security.<br>I mainly develop websites using TYPO3, but apart from that I enjoy selfhosting various<br>services and learning more about various cyber security aspects.
+I'm a 22 year old developer based in Switzerland and currently studying in cyber security.<br>I mainly develop websites using TYPO3, but apart from that I enjoy selfhosting various services and learning more about various cyber security aspects.
 
 
 # 💻 Tech Stack:
